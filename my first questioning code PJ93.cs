@@ -70,7 +70,7 @@ namespace script_combining_stuff_I_ve_learned_so_far_8oct
 
                 Console.WriteLine("Lastly, what are your prefered pronouns?");
 
-                string pronoune = ("They / them"); //define this string here so I can load it outside of the loop
+                string pronoune = ("They/them"); //define this string here so I can load it outside of the loop
 
                 bool genderloop = true;
                 while (genderloop) //loop until user confirms that it's correct
@@ -97,6 +97,7 @@ namespace script_combining_stuff_I_ve_learned_so_far_8oct
 
                         if (response == 'Y' || response == 'y')
                         {
+                            pronoune = ("He/Him");
                             genderloop = false;
                         }
                         else if (response == 'N' || response == 'n') //loops back to the gender options
@@ -122,6 +123,7 @@ namespace script_combining_stuff_I_ve_learned_so_far_8oct
 
                         if (response == 'Y' || response == 'y')
                         {
+                            pronoune = ("She/Her");
                             genderloop = false;
                         }
                         else if (response == 'N' || response == 'n') //loops back to the gender options

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "script combining stuff I've learned so far 8oct", "script combining stuff I've learned so far 8oct\script combining stuff I've learned so far 8oct.csproj", "{9CBD827E-9E41-4A61-88CB-8BE4AF19B794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CBD827E-9E41-4A61-88CB-8BE4AF19B794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBD827E-9E41-4A61-88CB-8BE4AF19B794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBD827E-9E41-4A61-88CB-8BE4AF19B794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBD827E-9E41-4A61-88CB-8BE4AF19B794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724DE5BE-1B38-4F26-B5F9-A92F15FA5698}
+	EndGlobalSection
+EndGlobal
